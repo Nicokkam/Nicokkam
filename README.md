@@ -1,4 +1,4 @@
-## Hello! My name is Nicolás Kamien and welcome to my github portfolio!
+## Hello and welcome to my GitHub portfolio!
 <div align="left">
   <a href="https://github.com/Nicokkam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicokkam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
